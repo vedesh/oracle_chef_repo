@@ -1,0 +1,1 @@
+default['git_installer']['path'] = "'C:/Git-2.10.2-64-bit.exe"
